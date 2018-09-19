@@ -2,13 +2,13 @@
 
 ## Exemplo de um sub-titulo
 
-" Item 1
-" Item 2
-" Item 3
+*Item 1
+*Item 2
+*Item 3
 
-'''C
+```C
         int main() {
                  return 0;
         }
-'''
+
 
